@@ -12,7 +12,7 @@ replace (
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.6
 	github.com/alecthomas/jsonschema v0.0.0-20220216202328-9eeeec9d044b
-	github.com/anchore/stereoscope v0.0.0-20230216143338-4b5ebf8c7f4b
+	github.com/anchore/stereoscope abfb374a1122
 	github.com/anchore/syft v0.72.0
 	github.com/derailed/k9s v0.27.2
 	github.com/distribution/distribution v2.8.1+incompatible
